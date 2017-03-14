@@ -5,4 +5,4 @@ webpack2.0-vue2.0
 
 ## 步骤
 
-> yarn init
+> yarn install 安装
